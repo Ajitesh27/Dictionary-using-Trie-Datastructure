@@ -1,0 +1,7 @@
+all: main dictionary.o util.o
+util.o: util.c
+		gcc -c util.c
+dictionary.o: dictionary.c
+		gcc -c dictionary.c
+main: util.o dictionary.o
+	gcc -o main dictionary.o util.o

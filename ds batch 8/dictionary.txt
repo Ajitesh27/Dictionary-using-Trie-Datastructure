@@ -1,0 +1,351 @@
+minute  infinitely
+smart    clever
+Stupid   Dumb
+Irrelevant   Useless	
+Bad   Inferior
+Interesting   Fascinating	
+Exact   Specific
+Awful  Horrible	
+Commonplace   Boring	
+Suitable   Uniform
+Baffle  confuse,deceive
+Beautiful  attractive,pretty,lovely,stunning
+Bossy  controlling,tyrannical
+Fair just,objective,impartial,unbiased
+Funny  humorous,comical,hilarious,hysterical
+Happy  content,joyful,mirthful,upbeat
+Hardworking   diligent,determined,industrious,enterprising
+Honest   honorable,fair,sincere,trustworthy
+Hypocrisy  duplicity,falseness
+Important  required,vital,
+Intelligent  smart
+Kind  thoughtful,considerate
+Lazy  idle
+Lucky  auspicious
+Mean  unfriendly
+Old  antiquated
+Outgoing  friendly
+Pacify  appease
+Positive  optimistic
+Recalcitrant  obstinate
+Rich  affluent
+Strong  stable
+True  genuine
+turbulent  disordered
+unhappy  sad
+Valid  authorized
+Weak  frail
+about	approximately
+abstract	summary
+accomplish	to achieve
+accumulate	to build up
+administer	 to manage
+admit	 to confess
+almost	nearly
+animated	lively
+annoy	to irritate
+answer	to reply
+anyway	besides
+apparent	obvious
+appear	to seem
+applicable	relevant
+appreciable  considerable
+ardour	passion
+arise	occur
+aromatic	fragrant
+arrive	to reach
+artful	crafty
+association	    organization
+assure	to guarantee
+attractive	appealing
+away	absent
+awful	terrible
+backbone	spine
+backside	behind,bottom
+bad 	poor,naughty
+ballot	poll
+bear 	to affect
+beat	to defeat
+becoming	fitting
+begin	to start
+behave	to act
+believable	plausible
+belly	stomach
+bendy	flexible
+beneficiant	  generous
+beneficial 	favourable
+bid	tender
+bizarre	weird
+blameless	innocent
+bloodbath	massacre
+bloodless	cold
+branch	department
+brave	courageous
+brow	forehead
+business	commerce, trade
+candy   sweet
+charter	constitution
+cheesy	corny, tacky
+chiefly	mainly
+choosy	picky
+chop	to cut
+chorus	refrain
+citation	quotation
+cite	to quote
+class	lesson
+clerk	receptionist
+clever	intelligent
+comfort	consolation
+comic	comedian
+commencement	graduation
+complete	total
+completely	totally
+concord	harmony
+condemn	sentence
+confederate   accomplice
+onsiderate	thoughtful
+constancy	fidelity
+constant	fixed
+constitution   structure
+correct	right
+couch	sofa
+crook	criminal
+crusade	campaign
+cube	dice
+curative	healing
+curler	roller
+cussed	stubborn
+dash	sprint
+daybreak	dawn
+deceptive	misleading
+decontrol	deregulate
+dedicated	committed
+defective	faulty
+deliberate	planned
+deliberately    intentionally
+delicate	fragile
+discount	reduction
+disgrace	shame
+domesticate	cultivate
+dossier	file
+dubious	doubtful
+dull 	stupid
+eager	keen
+earth	soil
+ecocnomic	   profitable
+egocentric	   selfish
+equity	fairness
+especially	particularly
+essential	fundamental
+everlasting   eternal
+exactly	precisely
+except	apart from
+famous	famed
+fanatic	enthusiast
+fantastic	great
+formerly	previously
+fortunate	lucky
+foxy	cunning
+foyer	lobby
+fragrance	perfume
+grasping	greedy
+gratis	free of charge
+gratuity	tip
+gravestone	headstone
+happily	fortunately
+hard	tough
+hashish	cannabis
+hearsay	rumour
+hermetic	airtight
+highbrow	intellectual
+hint	trace, tip
+hole	gap
+home	domestic
+homicide	murder
+housebreaking	burglary
+hunger	starvation
+immediate	instant
+immobile	motionless
+immoderate   excessive
+immodest	conceited
+impartial	neutral
+impasse	deadlock
+impassive	emotionless
+impediment	obstacle
+imperative	vital
+impolite	rude
+incidentally	by the way
+inconsiderate	thoughtless
+indisputable	indeniable
+infamous	notorious
+infantile	childish
+inflexible	rigid
+inflow	influx
+informal	casual
+infrequent	rare
+inheritor	heir
+innocent	harmless
+insolvent	bancrupt
+instinct	intuition
+instructions	directions
+insufferable	unbearable
+insufficient	inadequate
+insupportable	intolerable
+insurgent	rebel
+intellectual	mental
+legitimate	valid, lega
+lethal	deadly
+liveable	habitable
+livid	furious
+loopy	crazy
+lousy	awful
+lucid	clear
+mackintosh	waterproof coat
+madness	insanity
+magician	conjuror
+magistrate	Justice of the Peace
+manmade	artifical
+mannequin	model
+material	fabric
+matters	things
+maybe	perhaps, possibly
+meantime	meanwhile
+measure	degree
+meeting	assembly
+mendacity	lying
+merciless	cruel
+middleman	intermediary
+midway	halfway
+migrate	emigrate
+mild	gentle
+miserable	depressing
+misery	distress
+misread	misinterpret
+missing	lost
+mistrust	distrust
+mo 	moment
+moderately	reasonably
+modern	contemporary
+more and more	increasingly
+moreover	in addition
+movie	film
+murderer	assassin
+obdurate	stubborn
+object	thing
+obligatory	compulsory
+oblique	indirect
+omnipotent	all-powerful
+obsolete	out of date
+offseason	low season
+organic	biological
+ornament	decoration
+outside	external
+overhaul	to overtake
+overlook	to miss
+overseas	abroad
+oversee	to supervise
+painting	portray
+paper money	notes
+particular	specific
+passable	satisfactory
+pattern	sample
+peaceable	peaceful
+perception	insight
+phantasm	illusion
+pocket book	notebook
+poisonous	toxic
+possibility	opportunity
+post-mortem	autopsy
+practically	virtually
+praise	compliment
+precedence	priority
+precept	principle
+precis	summary
+pressing	urgent
+previous	preceding
+priority	precedence
+prompt	immediate
+prosperous	affluent
+to provide	to supply
+provided	if
+refrain	chorus
+reliable	dependable
+religious	devout
+remainder	the rest
+remark	comment
+reminiscence	memory
+remorse	regret
+remoted	isolated
+removable	detachable
+sacristy	vestry
+satisfied	convinced
+scarcity	shortage
+scrumptious	delicious
+second	moment
+selection	choice
+selfassured	 confident
+signal	sign
+significant	meaningful
+silly	foolish
+sincere	honest
+skull	cranium
+soiled	dirty
+spotlight	highlight
+stable	steady
+steady	regular
+stupid	silly
+substantially	considerably
+suggest	propose
+sundown	sunset
+sunrise	dawn
+sure	certain
+surroundings	environment
+tailored	tailor-made
+temper	mood
+terror	terrorism
+testament	testimony
+today	nowadays
+torpid	lethargic
+touchdown	landing
+touchy	sensitive
+to transform	to convert
+transitory	temporary
+transparent	obvious
+trustworthy	reliable
+twister	tornado
+ultimate	final
+uncared for	neglected
+uncommon	unusual
+uncooked	raw
+undeniable	indisputable
+understandable	comprehensible
+unforeseen	unexpected
+unfortunate	unlucky
+unhurt	unharmed
+uninjured	unhurt
+unlawful	illegal
+unmarried	single
+unstated	unspoken
+untimely	premature
+untrue	unfaithful
+unusual	strange
+unvoiced	voiceless
+uprising	rebellion
+usually	generally
+vacancy	emptiness
+to vacuum	to hoover
+vague	indistinct
+vain	useless
+valueless	worthless
+vanquish	to conquer
+vary	to differ
+vast	huge
+virtue	advantage
+visualize	to imagine
+warranty	guarantee
+well mannered	polite
+well timed	timely
+winery	vineyard
+withstand	to resist
+zenith	peak
+minute infinitesimal
